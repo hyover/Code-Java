@@ -11,13 +11,13 @@ public class CoderJourUn {
 
 		String[] mProject = new String[5];
 
-		mProject[0] = "- Appeler pôle emploi";
-		mProject[1] = "- Appeler cap emploi";
+		mProject[0] = "- Appeler "";
+		mProject[1] = "- Appeler "";
 		mProject[2] = "- Coder tous les jours";
 		mProject[3] = "- Livre audio tous les jours";
-		mProject[4] = "- Apprendre l'anglais sur Duolingo";
+		mProject[4] = "- Anglais every days";
 
-		mProject[0] = "- Contacter pôle emploi";
+		mProject[0] = "- Contacter "";
 
 		System.out.println("Nous avons "+mProject.length+ " projets à effectuer rapidement :");
 		System.out.println(mProject[0]);
