@@ -8,7 +8,7 @@ public class CestLePlusGrand {
 
 		/*
 		 * Test the max functions and compare
-	     */	
+	         */	
 
 		double dVal1, dVal2, dMaximum;
 		int iRep;
@@ -40,7 +40,7 @@ public class CestLePlusGrand {
 
 		/*
 		 * Returns the greater of the two values passed in parameter
-	     */	
+	         */	
 		
 		double plusGrand;
 
@@ -54,7 +54,7 @@ public class CestLePlusGrand {
 
 	public static int compare(double a, double b) {
 
-	   /*
+	       /*
 		* Returns a value to indicate the order of the two values passed in parameter
 		* 0 indicates that the two values are equal.
 		* 1 indicates that the first value is the greatest.
